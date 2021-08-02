@@ -4,4 +4,4 @@ ejemplo base
 
 de git
 
-esto irá en la version 2.
+Hoy hablaremos de su vida
